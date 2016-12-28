@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/holycat666/AndroidStudioProjects/pixy1/app/build/intermediates/res/merged/debug/drawable-nodpi/ic_launcher.png",
+        "source": "/Users/holycat666/AndroidStudioProjects/pixy1/app/src/main/res/drawable-nodpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/holycat666/AndroidStudioProjects/pixy1/app/build/intermediates/res/merged/debug/drawable-nodpi/summon.png",
+        "source": "/Users/holycat666/AndroidStudioProjects/pixy1/app/src/main/res/drawable-nodpi/summon.png"
+    },
+    {
+        "merged": "/Users/holycat666/AndroidStudioProjects/pixy1/app/build/intermediates/res/merged/debug/drawable-nodpi/ic_telephon.png",
+        "source": "/Users/holycat666/AndroidStudioProjects/pixy1/app/src/main/res/drawable-nodpi/ic_telephon.png"
+    },
+    {
+        "merged": "/Users/holycat666/AndroidStudioProjects/pixy1/app/build/intermediates/res/merged/debug/drawable-nodpi/ic_tel.png",
+        "source": "/Users/holycat666/AndroidStudioProjects/pixy1/app/src/main/res/drawable-nodpi/ic_tel.png"
+    }
+]

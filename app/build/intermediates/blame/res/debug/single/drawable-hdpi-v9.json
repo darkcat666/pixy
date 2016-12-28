@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/holycat666/AndroidStudioProjects/pixy1/app/build/intermediates/res/merged/debug/drawable-hdpi-v9/ic_launcher.png",
+        "source": "/Users/holycat666/AndroidStudioProjects/pixy1/app/src/main/res/drawable-hdpi-v9/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/holycat666/AndroidStudioProjects/pixy1/app/build/intermediates/res/merged/debug/drawable-hdpi-v9/ic_tel.png",
+        "source": "/Users/holycat666/AndroidStudioProjects/pixy1/app/src/main/res/drawable-hdpi-v9/ic_tel.png"
+    },
+    {
+        "merged": "/Users/holycat666/AndroidStudioProjects/pixy1/app/build/intermediates/res/merged/debug/drawable-hdpi-v9/ic_telephon.png",
+        "source": "/Users/holycat666/AndroidStudioProjects/pixy1/app/src/main/res/drawable-hdpi-v9/ic_telephon.png"
+    },
+    {
+        "merged": "/Users/holycat666/AndroidStudioProjects/pixy1/app/build/intermediates/res/merged/debug/drawable-hdpi-v9/summon.png",
+        "source": "/Users/holycat666/AndroidStudioProjects/pixy1/app/src/main/res/drawable-hdpi-v9/summon.png"
+    }
+]

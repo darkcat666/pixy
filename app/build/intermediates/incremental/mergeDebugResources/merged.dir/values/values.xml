@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">pixy</string>
+    <string name="call">発信！</string>
+    <string name="cancel">キャンセル</string>
+    <string name="configure">設定</string>
+    <string name="desc">電話をします。</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="setting_done">設定完了</string>
+    <string name="setting_window">設定画面</string>
+    <string name="telephon1">電番１</string>
+    <string name="telephon2">電番２</string>
+    <string name="telephon3">電番３</string>
+    <string name="telephon4">電番４</string>
+    <string name="telephon5">電番５</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
